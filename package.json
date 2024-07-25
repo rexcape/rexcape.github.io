@@ -6,8 +6,7 @@
     "newpost": "node new-post.mjs",
     "build": "hexo generate",
     "clean": "hexo clean",
-    "deploy": "hexo deploy",
-    "server": "hexo server"
+    "deploy": "hexo deploy"
   },
   "hexo": {
     "version": "7.3.0"
